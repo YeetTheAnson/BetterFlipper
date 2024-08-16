@@ -1,3 +1,12 @@
+The gerber files can be found [here](https://github.com/YeetTheAnson/BetterFlipper/tree/main/GerberFiles/yeettheanson-betterflipperzero-Gerbers-Versiond79e3345)
+the 3d view can be found [here](https://www.flux.ai/yeettheanson/betterflipperzero?editor=pcb_3d)
+
+## Pictures
+
+![Picture1](https://github.com/YeetTheAnson/BetterFlipper/raw/main/1.png)
+![Picture2](https://github.com/YeetTheAnson/BetterFlipper/raw/main/2.png)
+
+
 ## Features
 
 - **ESP32-S3-WROOM-1** for processing and connectivity
@@ -44,11 +53,6 @@ The following table lists the wiring connections for the main components:
 
 This project does not include the code required to run this
 
-
-## Pictures
-
-![Picture1](https://github.com/YeetTheAnson/BetterFlipper/raw/main/1.png)
-![Picture2](https://github.com/YeetTheAnson/BetterFlipper/raw/main/2.png)
 
 
 
