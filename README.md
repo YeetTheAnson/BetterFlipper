@@ -6,7 +6,7 @@ the 3d view can be found [here](https://www.flux.ai/yeettheanson/betterflipperze
 ![Picture1](https://github.com/YeetTheAnson/BetterFlipper/raw/main/1.png)
 ![Picture2](https://github.com/YeetTheAnson/BetterFlipper/raw/main/2.png)
 
-## Sitation
+## Citation
 [nRF24L01](https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf)
 [CC1101](https://www.ti.com/lit/ds/symlink/cc1101.pdf)
 [TP42056](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf)
