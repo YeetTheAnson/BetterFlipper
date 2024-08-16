@@ -1,5 +1,5 @@
 Project Name: BetterFlipperZero
-Project Version: #a03b5bbe
+Project Version: #d79e3345
 Project Url: https://www.flux.ai/yeettheanson/betterflipperzero
 
 Project Description:
